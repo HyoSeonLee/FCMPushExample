@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963583258621",
+    "firebase_url": "https://fcmtest-9a984.firebaseio.com",
+    "project_id": "fcmtest-9a984",
+    "storage_bucket": "fcmtest-9a984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963583258621:android:6f80cbd5ade36575",
+        "android_client_info": {
+          "package_name": "app.cosmos.fcmpushexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963583258621-aspontlr9u4iimjvlel6kfknhpeb2s9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQkY3dE7bcIub5iLR7TpMXKyVQ30sUo6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
